@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, I am Tabea</title>
+    <link>https://tabearoeber.github.io/</link>
+    <description>Recent content on Hello, I am Tabea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://tabearoeber.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About &amp;#128522;</title>
+      <link>https://tabearoeber.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://tabearoeber.github.io/about/</guid>
+      <description>I am Tabea, a graduate stats student interested in the intersection of psychology, design, and statistics.
+Something personal I am a German girl currently living in the Netherlands. I&amp;rsquo;ve moved here almost five years ago to begin my undergraduate studies in psychology. Now, four/five years later, I am still enjoying life in NL and am already close to finishing my graduate studies (in statistics; not psychology anymore).
+I love reading, although I get to do it way too little.</description>
+    </item>
+    
+    <item>
+      <title>Bookshelf &amp;#128218;</title>
+      <link>https://tabearoeber.github.io/books/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://tabearoeber.github.io/books/</guid>
+      <description>On this page I am keeping track of which books I&amp;rsquo;ve read and which I plan to read. This list covers everything I&amp;rsquo;ve read since about 2018. I am updating this list from to time, and I hope it will be some inspiration for others. For those books underlined I&amp;rsquo;ve written some extra lines on what I liked or disliked. I&amp;rsquo;ve also created this general OVERVIEW to keep track of which books I liked and which I would recommend.</description>
+    </item>
+    
+    <item>
+      <title>Educated</title>
+      <link>https://tabearoeber.github.io/books1/educated/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://tabearoeber.github.io/books1/educated/</guid>
+      <description>by Tara Westerhofer
+What is this book about? About a girl who grew up isolated from civilisation without going to school or seeing a doctor in her early life, that was eager to learn more about the world, and ended up a PhD from Harvard.
+What did I Like Very interestingly written book. The writing style is quite unique, or at least it was different to what I was used to from other books.</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://tabearoeber.github.io/books1/books_overview/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://tabearoeber.github.io/books1/books_overview/</guid>
+      <description>Book Author Recommend? 👍🏻 🌈 😟 💣     Educated Tara Westerhofer Yes! 💯 very interesting writing style difficult to get into the flow of reading at the beginning   The Uninhabitable Earth David Wallace-Wells Yes!! 💯 incredibly eye-opening; very good visual description very heavy, which is necessary though   Slumdog Millionaire Vikas Swarup Yes     Ein gutes Herz Leon de Winter Yes!</description>
+    </item>
+    
+    <item>
+      <title>Professional &amp;#127891;</title>
+      <link>https://tabearoeber.github.io/professional/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://tabearoeber.github.io/professional/</guid>
+      <description>Skills My strength definitely lies at the intersection of the human component with the statistical component. I am good at making statistical concepts accessible to someone without experience in the field. I know how to represent data and statistical insight in such a way that everyone can understand, use and built upon them.
+I am fluent in R, and have some experience in Python (which is growing every day). I am currently acquiring more knowledge and skills in handling semi-structured data (SQL, XML, JSON, RDF, etc.</description>
+    </item>
+    
+    <item>
+      <title>The Uninhabitable Earth</title>
+      <link>https://tabearoeber.github.io/books1/uninhabitableearth/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://tabearoeber.github.io/books1/uninhabitableearth/</guid>
+      <description>by David Wallace-Wells
+What is this book about? Climate change and its consequences for us and our world.
+What did I Like This book is probably one of the most scariest books I&amp;rsquo;ve ever read. The author really describe the extent of climate change and its consequences very visually, which makes it easier to grasp the vast impact climate change has.
+What did I not Like Overall, the book is quite pessimistic.</description>
+    </item>
+    
+  </channel>
+</rss>
